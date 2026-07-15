@@ -7,7 +7,6 @@ import How from './components/how/How';
 import Join from './components/join/Join';
 import Navbar from './components/navbar/Navbar';
 import Post from './components/post/Post';
-
 function App(){
   return (
     <div className="app">
@@ -23,3 +22,4 @@ function App(){
     </div>
   )
 }
+export default App;
