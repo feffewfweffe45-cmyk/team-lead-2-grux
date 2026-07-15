@@ -21,13 +21,11 @@ function App() {
       <Join />
       <Footer />
     </div>
-<<<<<<< HEAD
+
   )
 }
 
 export default App
-=======
-  );
-}
-export default App;
->>>>>>> b536f8469d94a39a7fa2fc90b1ffbc022d34a74a
+
+
+

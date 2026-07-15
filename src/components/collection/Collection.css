@@ -1,19 +1,20 @@
-
-.col-left{
+.col-left {
   text-align: center;
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
-.col-right{
-  display: flex ;
+.col{
+  padding-top: 100px;
+}
+.col-right {
+  display: flex;
   align-items: center;
   justify-content: space-between;
-padding-bottom: 64px;
+  padding-bottom: 64px;
 }
 
-.col-img1{
+.col-img1 {
   padding-top: 90px;
 }
-

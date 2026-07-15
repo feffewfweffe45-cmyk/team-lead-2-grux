@@ -8,7 +8,7 @@ function Footer(){
     <div>
       <>
 <section className="section">
-  <div className="container">
+  <dsiv className="container">
     <h2>Join Our Mailing List</h2>
 
     <p>
@@ -21,7 +21,7 @@ function Footer(){
       <input type="email" placeholder="example@gmail.com" />
       <button>Submit</button>
     </div>
-  </div>
+  </dsiv>
 </section>
 
 <footer className="footer">
