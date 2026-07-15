@@ -1,11 +1,13 @@
-import "./Navbar.css"
+import "./Navbar.css";
 
-function Navbar(){
+function Navbar() {
   return (
     <div>
-      <h2>parizoda</h2>
+      <div className="container">
+        <h2>parizoda</h2>
+      </div>
     </div>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;

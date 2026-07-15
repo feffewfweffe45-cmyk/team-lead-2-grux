@@ -1,0 +1,33 @@
+.bet-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.bet-left p{
+  font-weight: 400;
+  letter-spacing: 1.3px;
+  line-height: 30px;
+}
+.bet-left h2{
+  font-size: 34px;
+}
+.bet-left{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 40px;
+}
+.bet-left button{
+  padding: 24px 57px;
+  border-radius: 100px;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #054C73;
+  color: #fff;
+}
+.bet{
+  padding-top: 124px;
+}
